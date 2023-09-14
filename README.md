@@ -1,7 +1,7 @@
 # Movies Data Analysis
 
 <center>
-<img src="[https://raw.githubusercontent.com/thecodemancer/san_marcos_presentations/main/img/tcl-Best-Streaming-Apps-2022.webp](https://raw.githubusercontent.com/thecodemancer/movie-data-analysis/main/img/movies_background.jpeg)" />
+<img src="https://raw.githubusercontent.com/thecodemancer/movie-data-analysis/main/img/movies_background.jpeg" />
 </center>
 
 
